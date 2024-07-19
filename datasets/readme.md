@@ -1,0 +1,1 @@
+Whole-blood transcriptome data and metadata used for PPMI datasets were downloaded from https://www.ppmi-info.org/. For the PDBP data, transcriptomics data was downloaded from https://a mp-pd.org/.
