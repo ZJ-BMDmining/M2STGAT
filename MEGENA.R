@@ -15,14 +15,14 @@ module.pval=0.05
 hub.pval=0.05
 
 
-cor.perm = 2 # 用于计算所有相关对的FDRs
-hub.perm = 20 # 用于计算连通显著性p值
+cor.perm = 2 
+hub.perm = 20 
 
 annot.table=NULL
 id.col=1
 symbol.col=2
 
-）
+
 ijw<-calculate.correlation(datExpr,doPerm = 3,num.cores = 8,saveto ="./")
 #ijw<-calculate.correlation(datExpr,doPerm = 5,doPar = FALSE,num.cores = 8,method = "pearson",
 #                           FDR.cutoff = 0.05,n.increment = 100,is.signed = FALSE,
