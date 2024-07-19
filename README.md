@@ -76,10 +76,10 @@ The following types of data are required before running this command:
 
 # Evaluation metrics
 
-![SuppFig3-PPMI-Boxplot](.\figures\SuppFig3-PPMI-Boxplot.jpg)
+![SuppFig3-PPMI-Boxplot](./figures/SuppFig3-PPMI-Boxplot.jpg)
 
 ​																					(a) PPMI
 
-![SuppFig3-PDBP-Boxplot](.\figures\SuppFig3-PDBP-Boxplot.jpg)
+![SuppFig3-PDBP-Boxplot](./figures/SuppFig3-PDBP-Boxplot.jpg)
 
 ​                                                                                    (b) PDBP
