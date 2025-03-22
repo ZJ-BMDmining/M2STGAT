@@ -74,12 +74,12 @@ The following types of data are required before running this command:
 
 
 
-# Evaluation metrics
+# Comparison of ROC curves for dual view models
 
-![SuppFig3-PPMI-Boxplot](./figures/SuppFig3-PPMI-Boxplot.jpg)
+![SuppFig3-PPMI-Boxplot](./figures/Fig4-PPMI-ST-ROC.jpg)
 
 ​																					(a) PPMI
 
-![SuppFig3-PDBP-Boxplot](./figures/SuppFig3-PDBP-Boxplot.jpg)
+![SuppFig3-PDBP-Boxplot](./figures/Fig4-PDBP-ST-ROC.jpg)
 
 ​                                                                                    (b) PDBP
