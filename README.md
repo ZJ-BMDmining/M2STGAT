@@ -1,4 +1,4 @@
-# $$M^{2}STGAT$$
+# M$$^{2}$$DGAT
 
 ​	Motivated by multi-view modeling practices, this study proposes the STPD-DGAT method aims to capture disease-specific spatiotemporal embeddings from whole-blood RNA sequencing data, thus conducting progression modeling for PD. The main purpose of this STPD-DGAT method is to assess staging of PD with
 spatiotemporal embeddings.
